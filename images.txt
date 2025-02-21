@@ -3,3 +3,6 @@ directxman12/k8s-prometheus-adapter:v0.8.4
 jimmidyson/configmap-reload:v0.5.0
 grafana/grafana:7.5.4
 quay.io/prometheus/blackbox-exporter:v0.18.0
+quay.io/coreos/kube-state-metrics:v1.9.7
+directxman12/k8s-prometheus-adapter:v0.8.2
+grafana/grafana:7.3.4
