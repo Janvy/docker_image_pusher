@@ -7,3 +7,4 @@ quay.io/coreos/kube-state-metrics:v1.9.7
 directxman12/k8s-prometheus-adapter:v0.8.2
 grafana/grafana:7.3.4
 ghcr.io/linuxserver/wireguard
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.3.0@sha256:549e71a6ca248c5abd51cdb73dbc3083df62cf92ed5e6147c780e30f7e007a47
